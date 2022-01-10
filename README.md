@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sakshi sawalikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi sawalikar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sakshi sawalikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sakshi sawalikar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sakshi-sawalikar-698452209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi sawalikar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/preferences/17281771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sakshi sawalikar" height="30" width="40" /></a>
 <a href="https://instagram.com/sshakshi_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sshakshi_16" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@s.k.sawalikar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@s.k.sawalikar16" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sksawalikar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sksawalikar16" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sksawalikar16/saved-articles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sksawalikar16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
