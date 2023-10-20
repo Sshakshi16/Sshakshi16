@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DevOps Intern**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **DevOps Tools **
 
 - 🤝 I’m looking for help to get **Amazing Internship**
 
