@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">IT undergraduate</h3>
 
-- 🔭 I’m currently working on **Android Development using JAVA**
+- 🔭 I’m currently working on **DevOps Intern**
 
 - 🌱 I’m currently learning **Android**
 
